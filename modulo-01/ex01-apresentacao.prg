@@ -1,10 +1,10 @@
 FUNCTION Main()
     LOCAL cNome := "Gustavo Reis"
-    LOCAL cCidade := " S�o Paulo "
+    LOCAL cCidade := " São Paulo "
     LOCAL cCurso := "Harbour/ADVLP"
     hb_cdpSelect("PT850")
 
-    QOut(" FICHA DE APRESENTA��O ")
+    QOut(" FICHA DE APRESENTAÇÃO ")
     QOut("Nome: "+ cNome)
     QOut("CIDADE: "+ cCidade)
     QOut("Curso: "+ cCurso)
